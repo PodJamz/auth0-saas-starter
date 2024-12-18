@@ -5,7 +5,7 @@ import { SettingsIcon } from "lucide-react"
 
 import { appClient, managementClient } from "@/lib/auth0"
 import { Button } from "@/components/ui/button"
-import { Auth0Logo } from "@/components/auth0-logo"
+import { MiaiLogo } from "@/components/auth0-logo"
 import { ModeToggle } from "@/components/mode-toggle"
 import { OrganizationSwitcher } from "@/components/organization-switcher"
 import { UserNav } from "@/components/user-nav"
@@ -70,10 +70,10 @@ export default async function DashboardLayout({
       <footer className="mx-auto max-w-7xl px-2 py-6 sm:px-6 lg:px-8">
         <div className="flex justify-between">
           <div className="flex items-center space-x-2">
-            <Auth0Logo className="h-6 w-6" />
+            <MiaiLogo className="h-6 w-6" />
 
             <div className="font-mono font-semibold">
-              <Link href="/">SaaStart</Link>
+              <Link href="/">MIAI Law Reasoned</Link>
             </div>
 
             <div>

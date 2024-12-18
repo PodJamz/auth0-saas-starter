@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-import { Auth0Logo } from "@/components/auth0-logo"
+import { MiaiLogo } from "@/components/auth0-logo"
 
 import { CreateOrganizationForm } from "./create-organization-form"
 
@@ -10,14 +10,14 @@ export default async function Create() {
       <div className="relative hidden h-full flex-col bg-muted p-10 text-white dark:border-r lg:flex">
         <div className="absolute inset-0 bg-zinc-900" />
         <div className="relative z-20 flex items-center text-lg font-medium">
-          <Auth0Logo className="mr-2 size-8" />
-          <span className="font-mono font-medium">SaaStart</span>
+          <MiaiLogo className="mr-2 size-8" />
+          <span className="font-mono font-medium">MIAI Law Reasoned</span>
         </div>
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">
             <div className="space-y-1">
               <p className="text-lg">
-                SaaStart is a reference B2B SaaS application built using Next.js
+                MIAI Law Reasoned Test Authentication app using Next.js
                 and Auth0 by Okta.
               </p>
               <p className="text-lg">

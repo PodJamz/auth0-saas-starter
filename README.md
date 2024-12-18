@@ -1,4 +1,4 @@
-# **SaaStart** from Auth0 by Okta
+# **MIAI Law Reasoned** from Auth0 by Okta
 
 A secure and high-performance starting point for building modern B2B SaaS web applications.
 
@@ -53,7 +53,7 @@ Use this to bootstrap a SaaS application with the following commonly needed capa
 2. You must have [`npm`](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) or a comparable package manager installed in your development environment. These instructions assume that you're using `npm`, which is automatically included as part of the Node.js installation from prerequisite 1.
 3. Create a new Auth0 tenant. **This is important!** Using a new Auth0 tenant for this sample application ensures you don't encounter any conflicts due to existing configuration in an existing tenant.
    
-   The tenant you create will be configured automatically by our bootstrapping command during the installation process. You can sign up for a free Auth0 account at [https://auth0.com/signup](https://auth0.com/signup?utm_source=github&utm_medium=thirdpartyutm_campaign=saastart). See [Create Tenants](https://auth0.com/docs/get-started/auth0-overview/create-tenants) in the Auth0 docs if you need help.
+   The tenant you create will be configured automatically by our bootstrapping command during the installation process. You can sign up for a free Auth0 account at [https://auth0.com/signup](https://auth0.com/signup?utm_source=github&utm_medium=thirdpartyutm_campaign=MIAI Law Reasoned). See [Create Tenants](https://auth0.com/docs/get-started/auth0-overview/create-tenants) in the Auth0 docs if you need help.
 
    Once you've created a tenant, nothing else needs to be done inside Auth0 - you can return to this README.md and begin completing the steps below.
 
@@ -173,7 +173,7 @@ By clicking through the application's front-end, you can explore the management 
 Each user that creates an account from scratch will be prompted to enter an organization name as part of their sign-up flow. Once an organization is created, users with admin roles can invite additional users who will automatically be added to the organization.
 
 ### User Management
-Invite additional users, change users' roles (and thus what they have permission to do in the application), and delete users. You'll notice as you perform these operations in SaaStart, you're changing the user database and organizations in your Auth0 tenant.
+Invite additional users, change users' roles (and thus what they have permission to do in the application), and delete users. You'll notice as you perform these operations in MIAI Law Reasoned, you're changing the user database and organizations in your Auth0 tenant.
 
 ### Connections
 Use the SSO tab in the settings section to connect an external IDP (eg, Okta WIC, Google Workforce, Azure AD, etc) via SAML or OIDC. This allows your business customers to set up their own Single Sign On connections right in your application. You can also optionally enable SCIM provisioning using the same connections.
@@ -208,4 +208,4 @@ To learn more about Auth0, take a look at the following resources:
 
 See [CONTRIBUTING](./CONTRIBUTING.md) for information.
 
-Questions? Feedback? Drop us a line in the [Auth0 Community](https://community.auth0.com/t/saastart-b2b-saas-reference-app/136654)
+Questions? Feedback? Drop us a line in the [Auth0 Community](https://community.auth0.com/t/MIAI Law Reasoned-b2b-saas-reference-app/136654)

@@ -1,6 +1,6 @@
 # Contributing to the B2B SaaS Starter Kit
 
-This document provides an outline for interacting with the repository and community, as well as the nitty-gritty details on how to write, test, and submit code changes. If you run into any trouble, open a discussion in the [Auth0 Community](https://community.auth0.com/t/saastart-b2b-saas-reference-app/136595) and someone will do their best to assist you in a timely manner.
+This document provides an outline for interacting with the repository and community, as well as the nitty-gritty details on how to write, test, and submit code changes. If you run into any trouble, open a discussion in the [Auth0 Community](https://community.auth0.com/t/MIAI Law Reasoned-b2b-saas-reference-app/136595) and someone will do their best to assist you in a timely manner.
 
 ## Contribution Process
 

@@ -3,7 +3,7 @@ import Link from "next/link"
 import { appClient } from "@/lib/auth0"
 import { cn } from "@/lib/utils"
 import { buttonVariants } from "@/components/ui/button"
-import { Auth0Logo } from "@/components/auth0-logo"
+import { MiaiLogo } from "@/components/auth0-logo"
 
 import { SignUpForm } from "./signup-form"
 import { WelcomeBackCard } from "./welcome-back-card"
@@ -39,14 +39,14 @@ export default async function Home() {
       <div className="relative hidden h-full flex-col bg-muted p-10 text-white dark:border-r lg:flex">
         <div className="absolute inset-0 bg-black" />
         <div className="relative z-20 flex items-center text-lg font-medium">
-          <Auth0Logo className="mr-2 size-8" />
-          <span className="font-semibold">SaaStart</span>
+          <MiaiLogo className="mr-2 size-8" />
+          <span className="font-semibold">MIAI Law Reasoned</span>
         </div>
         <div className="relative z-20 m-auto max-w-sm text-center">
           <blockquote className="space-y-2">
             <div className="space-y-8">
               <p className="text-lg font-medium">
-                SaaStart is a reference B2B SaaS application built using Next.js
+                MIAI Law Reasoned is a reference B2B SaaS application built using Next.js
                 and Auth0 by Okta.
               </p>
               <p className="text-lg">

@@ -11,10 +11,10 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SaaStart | Auth0 by Okta",
+  title: "MIAI Law Reasoned | Auth0 by Okta",
   description:
-    "SaaStart is a reference B2B SaaS application built using Next.js and Auth0 by Okta.",
-  metadataBase: new URL("https://saastart.app"),
+    "MIAI Law Reasoned Auth test app using Next.js and Auth0 by Okta.",
+  metadataBase: new URL("https://auth0-saas-starter-iamai.vercel.app"),
 }
 
 export default async function RootLayout({

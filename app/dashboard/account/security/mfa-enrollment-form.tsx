@@ -195,7 +195,7 @@ export function MFAEnrollmentForm({ factors }: MFAEnrollmentProps) {
 
                           const enrollmentPopupWindow = openPopupWindow({
                             url: ticketUrl!,
-                            title: "SaaStart MFA Enrollment",
+                            title: "MIAI Law Reasoned MFA Enrollment",
                             width: 450,
                             height: 720,
                             scrollbars: true,
