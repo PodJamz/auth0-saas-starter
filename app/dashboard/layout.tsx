@@ -5,7 +5,7 @@ import { SettingsIcon } from "lucide-react"
 
 import { appClient, managementClient } from "@/lib/auth0"
 import { Button } from "@/components/ui/button"
-import { MiaiLogo } from "@/components/auth0-logo"
+import { MiaiLogo } from "@/components/miai-logo"
 import { ModeToggle } from "@/components/mode-toggle"
 import { OrganizationSwitcher } from "@/components/organization-switcher"
 import { UserNav } from "@/components/user-nav"

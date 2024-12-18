@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-import { MiaiLogo } from "@/components/auth0-logo"
+import { MiaiLogo } from "@/components/miai-logo"
 
 import { CreateOrganizationForm } from "./create-organization-form"
 

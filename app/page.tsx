@@ -3,7 +3,7 @@ import Link from "next/link"
 import { appClient } from "@/lib/auth0"
 import { cn } from "@/lib/utils"
 import { buttonVariants } from "@/components/ui/button"
-import { MiaiLogo } from "@/components/auth0-logo"
+import { MiaiLogo } from "@/components/miai-logo"
 
 import { SignUpForm } from "./signup-form"
 import { WelcomeBackCard } from "./welcome-back-card"
