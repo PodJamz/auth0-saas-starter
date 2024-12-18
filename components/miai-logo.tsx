@@ -9,9 +9,9 @@ export function MiaiLogo({ className }: Props) {
     <Image
       src="/MIAI_logo.png"
       alt="MIAI Law"
-      width={150}
-      height={40}
-      className={className}
+      width={100}
+      height={100}
+      className={`${className} object-contain`}
       priority
     />
   )
